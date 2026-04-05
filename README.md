@@ -5,5 +5,5 @@ This project analyzes air quality data to identify pollution trends across citie
 # Features
 - City-wise AQI comparison
 - Monthly trend analysis
-- Heatmap visualization
+  
 Note: Interactive dashboard elements may not render properly on GitHub and are best viewed in Jupyter Notebook.
